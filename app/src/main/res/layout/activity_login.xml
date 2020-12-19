@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    tools:context=".LoginActivity"
+
+    >
+
+    <ImageView
+        android:layout_width="242dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/app_name"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        app:startIconDrawable="@drawable/ic_mobile_number"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:boxBackgroundColor="@color/white"
+        >
+
+        <EditText
+            android:id="@+id/mobileNumber"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:hint="Mobile Number"
+            android:inputType="number"
+            android:textColor="@android:color/black"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+     <com.google.android.material.textfield.TextInputLayout
+         android:layout_width="300dp"
+         android:layout_height="70dp"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="370dp"
+         app:passwordToggleEnabled="true"
+         app:startIconDrawable="@drawable/ic_padlock"
+         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+         app:boxBackgroundColor="@color/white"
+         >
+
+         <EditText
+             android:id="@+id/password"
+             android:layout_width="match_parent"
+             android:layout_height="60dp"
+             android:hint="Password"
+             android:inputType="textPassword"
+             android:layout_below="@+id/mobileNumber"
+             android:textColor="@android:color/black"/>
+
+     </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/login"
+        android:text="Login"
+        android:textSize="20sp"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/button_round"/>
+
+    <TextView
+        android:text="Not a member Yet?"
+        android:textColor="@android:color/background_dark"
+        android:layout_marginTop="530dp"
+        android:textSize="20sp"
+        android:layout_marginStart="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/signup"
+        android:text="Signup"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_marginTop="530dp"
+        android:textSize="20sp"
+        android:layout_marginStart="250dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

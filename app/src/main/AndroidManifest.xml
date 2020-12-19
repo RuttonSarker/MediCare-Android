@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.redbox.medicare">
+    package="com.redbox.medicare" >
 
     <application
         android:allowBackup="true"
@@ -8,9 +8,20 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MediCare">
-        <activity android:name=".LoginActivity"></activity>
-        <activity android:name=".SplashScreen">
+        android:theme="@style/Theme.MediCare" >
+        <activity android:name=".MedicalReportList" >
+        </activity>
+        <activity android:name=".PrescriptionRecord" />
+        <activity android:name=".AppointmentList" />
+        <activity android:name=".ScheduleManager" />
+        <activity android:name=".DoctorActivity" />
+        <activity android:name=".PatientMedicalReport" />
+        <activity android:name=".PatientPrescription" />
+        <activity android:name=".PatientAppointment" />
+        <activity android:name=".DoctorList" />
+        <activity android:name=".PatientActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
