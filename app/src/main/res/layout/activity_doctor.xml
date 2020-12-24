@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="100dp"
         android:text="My Dashboard"
-        android:textColor="#009688"
+        android:textColor="#E91E63"
         android:textStyle="bold"
         android:textSize="30dp"
         android:layout_marginTop="40dp"
