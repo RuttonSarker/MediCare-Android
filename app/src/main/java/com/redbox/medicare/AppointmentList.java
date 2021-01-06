@@ -11,4 +11,6 @@ public class AppointmentList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_appointment_list);
     }
+
 }
+//This is for patient appointment.
