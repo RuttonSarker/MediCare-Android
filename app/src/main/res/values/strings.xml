@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MediCare</string>
+
+    <string-array name="User_Type">
+        <item> "Doctor" </item>
+        <item> "Patient" </item>
+
+    </string-array>
+
+    <string-array name="Gender_Type">
+        <item> "Gender" </item>
+        <item> "Male" </item>
+        <item> "Female" </item>
+
+    </string-array>
+
 </resources>

@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/login_background"
     tools:context=".LoginActivity"
-
     >
 
     <ImageView
@@ -14,7 +13,26 @@
         android:layout_height="162dp"
         android:layout_marginStart="60dp"
         android:layout_marginTop="20dp"
-        android:src="@drawable/app_name"/>
+        android:src="@drawable/app_name"
+        />
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:background="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="235dp"
+        >
+        <Spinner
+
+            android:background="@drawable/spinner_border"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/user"
+            />
+    </RelativeLayout>
+
+
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="300dp"
@@ -75,7 +93,7 @@
     <TextView
         android:text="Not a member Yet?"
         android:textColor="@android:color/background_dark"
-        android:layout_marginTop="530dp"
+        android:layout_marginTop="520dp"
         android:textSize="20sp"
         android:layout_marginStart="70dp"
         android:layout_width="match_parent"
@@ -86,8 +104,8 @@
         android:text="Signup"
         android:textStyle="bold"
         android:textColor="@android:color/holo_red_dark"
-        android:layout_marginTop="530dp"
-        android:textSize="20sp"
+        android:layout_marginTop="515dp"
+        android:textSize="25sp"
         android:layout_marginStart="250dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
