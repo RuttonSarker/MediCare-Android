@@ -19,12 +19,11 @@
     <RelativeLayout
         android:layout_width="300dp"
         android:layout_height="60dp"
-        android:background="#FFFFFF"
+        android:background="#FFBFF8FF"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="235dp"
         >
         <Spinner
-
             android:background="@drawable/spinner_border"
             android:layout_width="match_parent"
             android:layout_height="60dp"
@@ -41,16 +40,18 @@
         android:layout_marginTop="300dp"
         app:startIconDrawable="@drawable/ic_mobile_number"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-        app:boxBackgroundColor="@color/white"
+        app:boxBackgroundColor="#BFF8FF"
         >
 
         <EditText
             android:id="@+id/mobileNumber"
             android:layout_width="match_parent"
             android:layout_height="60dp"
-            android:hint="Mobile Number"
+            android:hint="Mobile"
             android:inputType="number"
-            android:textColor="@android:color/black"/>
+            android:textStyle="normal"
+            android:textSize="18dp"
+            />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -63,7 +64,7 @@
          app:passwordToggleEnabled="true"
          app:startIconDrawable="@drawable/ic_padlock"
          style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-         app:boxBackgroundColor="@color/white"
+         app:boxBackgroundColor="#FFBFF8FF"
          >
 
          <EditText
@@ -72,6 +73,7 @@
              android:layout_height="60dp"
              android:hint="Password"
              android:inputType="textPassword"
+             android:textSize="18sp"
              android:layout_below="@+id/mobileNumber"
              android:textColor="@android:color/black"/>
 
