@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="15dp"
+    app:cardBackgroundColor="#51F1E1"
+    android:layout_marginTop="10dp"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/doctor_male"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/ic_doctor"
+            app:civ_border_width="1dp"
+            app:civ_border_color="@color/white"/>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="124dp"
+            android:layout_marginTop="8dp"
+            android:text="Name"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="8dp"
+            android:text="Dr."
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/dept."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:text="Department of"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="#FB1616"
+            android:layout_below="@+id/name"
+            />
+
+        <TextView
+            android:id="@+id/department"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="220dp"
+            android:layout_marginTop="10dp"
+            android:text="Department"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="#FB1616"
+            android:layout_below="@+id/name"
+            />
+
+        <TextView
+            android:id="@+id/degree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:text="Degree"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="#FB1616"
+            android:layout_below="@+id/department"/>
+
+        <TextView
+            android:id="@+id/medical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:text="Medical"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="@color/black"
+            android:layout_below="@+id/degree"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="10dp"
+            android:text="Visit:"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#F80000"
+            android:layout_below="@+id/medical"/>
+
+        <TextView
+            android:id="@+id/visit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="145dp"
+            android:layout_marginTop="10dp"
+            android:text="Visit"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_below="@+id/medical"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/visit"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:text="BDT."
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_below="@+id/medical" />
+
+        <TextView
+            android:id="@+id/id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="160dp"
+            android:text="ID"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/appointment"
+            android:text="Appointment"
+            android:textSize="20sp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/button_round_2"
+            android:layout_below="@+id/visit"
+            />
+
+      </RelativeLayout>
+
+    </ScrollView>
+
+</androidx.cardview.widget.CardView>
