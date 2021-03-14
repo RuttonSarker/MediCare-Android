@@ -4,8 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ffff"
+    android:background="#C1E3EC"
     tools:context=".PatientActivity">
+
+
+    <ImageView
+        android:layout_width="242dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/app_name"
+        />
+
+    <TextView
+        android:text="Register As"
+        android:textColor="#E11D1D"
+        android:layout_marginTop="240dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginStart="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 
     <Button
@@ -17,7 +36,7 @@
         android:layout_marginTop="300dp"
         android:layout_marginRight="30dp"
         android:background="#8BC34A"
-        android:text="Patient Dashboard"
+        android:text="Patient"
         android:textAllCaps="false" />
 
     <Button
@@ -29,7 +48,7 @@
         android:layout_marginTop="30dp"
         android:layout_marginRight="30dp"
         android:background="#00BCD4"
-        android:text="Doctor Dashboard"
+        android:text="Doctor"
         android:textAllCaps="false"
         android:layout_below="@+id/patient"/>
 
