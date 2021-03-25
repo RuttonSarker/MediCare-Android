@@ -45,7 +45,7 @@ public class SharedPreference {
     }
 
 
-    // this is used for storing userType doctor or patient
+    // this is used for storing userType-- doctor or patient
 
     public int getUserInt(String key){
         return sharedPreferences.getInt(key, 0);
