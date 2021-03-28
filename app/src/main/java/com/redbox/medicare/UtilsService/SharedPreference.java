@@ -19,10 +19,12 @@ public class SharedPreference {
     // this is used for storing token
 
     public int getValueInt(String key){
+
         return sharedPreferences.getInt(key, 0);
     }
 
     public void setValueInt(String key, int value){
+
         preferenceEditor.putInt(key, value).commit();
     }
 
