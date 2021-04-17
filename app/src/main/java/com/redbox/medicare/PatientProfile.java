@@ -4,6 +4,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -205,6 +206,11 @@ public class PatientProfile extends AppCompatActivity {
                         mobile.setText(myContact);
                         age.setText(myAge);
                         gender.setText(myGender);
+
+                        Intent patient = new Intent(PatientProfile.this,MainActivity.class);
+                        patient.putExtra("username",myName);
+                        patient.putExtra("mobile",myContact);
+                        patient.putExtra("age",myAge);
 
                         }
 
