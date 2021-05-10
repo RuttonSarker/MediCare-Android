@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="130ce49d-3d2d-49f9-b14f-9b3134385abd" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/DoctorNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/DoctorRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/Fragments/DailyReportFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/Fragments/TestReportFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientMessege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_blood_pressure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_glucose_meter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_doctor_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_find_doctor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_messege.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_daily_report_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_medical_report_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_daily_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_test_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/AppointmentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/AppointmentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/DoctorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/DoctorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientMedicalReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientMedicalReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientPrescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/redbox/medicare/PatientPrescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_appointment_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_appointment_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_medical_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_medical_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_prescription.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_patient_prescription.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ksh5KHuD2ZUK7ZgoJP28vK7sUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-08T15:21:11.352Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quickRent" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.2140690977">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.-1785002192">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.-754130545">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.2099777329">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.187303703">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.1267695015">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.1645577488">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rutton\AndroidStudioProjects\MediCare\app\libs" />
+      <recent name="C:\Users\Rutton\AndroidStudioProjects\MediCare\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-168413834">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.-1377564774">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.523598714">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.redbox.medicare" />
+    </key>
+    <key name="android.template.956108507">
+      <recent name="com.redbox.medicare" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MediCare.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drawable-v24.* and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MediCare.app" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="drawable-v24.*" />
+        <pattern testClass="drawable.*" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130ce49d-3d2d-49f9-b14f-9b3134385abd" name="Default Changelist" comment="" />
+      <created>1606495021390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606495021390</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;SplashScreen Activity&quot; Added">
+      <created>1607195413958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607195413958</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Login Activity&quot; Added">
+      <created>1608406829282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608406829282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Doctor Dashboard&quot; Added">
+      <created>1608829523519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608829523519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Doctor Dashboard&quot; update">
+      <created>1608830862246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608830862246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Patient Activity&quot; Added">
+      <created>1608831109949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608831109949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gradle update">
+      <created>1609947397352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609947397352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SplashScreen update">
+      <created>1614691261337</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614691261338</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LoginActivity,PatientActivity,others drawable and res file added">
+      <created>1614691452540</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614691452540</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DoctorActivity, UtilService, layout added">
+      <created>1615202943886</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615202943886</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SharedPreference added">
+      <created>1615203054028</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615203054028</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DoctorAdapter successfully added">
+      <created>1615619282145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615619282145</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DoctorList added">
+      <created>1615741288499</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615741288499</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1615741357374</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615741357374</updated>
+    </task>
+    <task id="LOCAL-00014" summary="PatientProfile added">
+      <created>1616354576402</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616354576402</updated>
+    </task>
+    <task id="LOCAL-00015" summary="SharedPreference added">
+      <created>1616690973050</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616690973050</updated>
+    </task>
+    <task id="LOCAL-00016" summary="DoctorProfile added">
+      <created>1616691094415</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616691094415</updated>
+    </task>
+    <task id="LOCAL-00017" summary="drawable file added">
+      <created>1616691727756</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616691727756</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1616693350679</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616693350680</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1616945233100</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616945233103</updated>
+    </task>
+    <task id="LOCAL-00020" summary="custom dialog edit profile added">
+      <created>1616945326074</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616945326074</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Feedback option added">
+      <created>1617206550833</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1617206550833</updated>
+    </task>
+    <task id="LOCAL-00022" summary="TextView update">
+      <created>1617206745942</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1617206745942</updated>
+    </task>
+    <task id="LOCAL-00023" summary="AboutUs added">
+      <created>1617633239332</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617633239332</updated>
+    </task>
+    <task id="LOCAL-00024" summary="activity_list_doctor update code">
+      <created>1617633387040</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617633387040</updated>
+    </task>
+    <task id="LOCAL-00025" summary="DoctorMessege feature added">
+      <created>1618064489901</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1618064489901</updated>
+    </task>
+    <task id="LOCAL-00026" summary="doctor_messege layout added">
+      <created>1618064575492</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1618064575492</updated>
+    </task>
+    <task id="LOCAL-00027" summary="PaymentGateway library added">
+      <created>1618318784678</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1618318784678</updated>
+    </task>
+    <task id="LOCAL-00028" summary="SslCommerzPaymentGateway added">
+      <created>1618318940437</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1618318940437</updated>
+    </task>
+    <task id="LOCAL-00029" summary="PaymentGateway layout added">
+      <created>1618318987162</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1618318987162</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1618682248288</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1618682248288</updated>
+    </task>
+    <task id="LOCAL-00031" summary="updated">
+      <created>1618682297406</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1618682297406</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated">
+      <created>1620311715908</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1620311715908</updated>
+    </task>
+    <task id="LOCAL-00033" summary="values file updated">
+      <created>1620311918531</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1620311918531</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Doctor Dashboard&quot; update" />
+    <MESSAGE value="&quot;Patient Activity&quot; Added" />
+    <MESSAGE value="gradle update" />
+    <MESSAGE value="LoginActivity,PatientActivity,others drawable and res file added" />
+    <MESSAGE value="DoctorActivity, UtilService, layout added" />
+    <MESSAGE value="DoctorAdapter successfully added" />
+    <MESSAGE value="SplashScreen update" />
+    <MESSAGE value="DoctorList added" />
+    <MESSAGE value="PatientProfile added" />
+    <MESSAGE value="SharedPreference added" />
+    <MESSAGE value="DoctorProfile added" />
+    <MESSAGE value="drawable file added" />
+    <MESSAGE value="custom dialog edit profile added" />
+    <MESSAGE value="Feedback option added" />
+    <MESSAGE value="TextView update" />
+    <MESSAGE value="AboutUs added" />
+    <MESSAGE value="activity_list_doctor update code" />
+    <MESSAGE value="DoctorMessege feature added" />
+    <MESSAGE value="doctor_messege layout added" />
+    <MESSAGE value="PaymentGateway library added" />
+    <MESSAGE value="SslCommerzPaymentGateway added" />
+    <MESSAGE value="PaymentGateway layout added" />
+    <MESSAGE value="update" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="values file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="values file updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1616691767372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1616691767372" />
+    <state x="198" y="134" key="#PSD" timestamp="1620074893841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="198" y="134" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1620074893841" />
+    <state x="361" y="53" key="#Plugins" timestamp="1618929033485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1618929033485" />
+    <state x="578" y="279" key="#Updates" timestamp="1613316076929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="279" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1613316076929" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1620056658030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620056658030" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1620313859467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1620313859467" />
+    <state x="431" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620067112192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620067112192" />
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1620078129137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1620078129137" />
+    <state x="458" y="206" key="AndroidCreateResourceFileDialog" timestamp="1620104134835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="458" y="206" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620104134835" />
+    <state x="258" y="0" width="1245" height="824" key="CommitChangelistDialog2" timestamp="1620311917678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="258" y="0" width="1245" height="824" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1620311917678" />
+    <state x="683" y="167" key="FileChooserDialogImpl" timestamp="1620102961235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="683" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620102961235" />
+    <state width="1491" height="523" key="GridCell.Tab.0.bottom" timestamp="1618283157706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="523" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618283157706" />
+    <state width="1491" height="523" key="GridCell.Tab.0.center" timestamp="1618283157706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="523" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618283157706" />
+    <state width="1491" height="523" key="GridCell.Tab.0.left" timestamp="1618283157705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="523" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618283157705" />
+    <state width="1491" height="523" key="GridCell.Tab.0.right" timestamp="1618283157706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="523" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618283157706" />
+    <state x="280" y="155" width="1114" height="594" key="IDE.errors.dialog" timestamp="1619795387814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="280" y="155" width="1114" height="594" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1619795387814" />
+    <state x="495" y="115" key="RollbackChangesDialog" timestamp="1615816409128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615816409128" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1619458534647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619458534647" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1620311922545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620311922545" />
+    <state x="516" y="186" key="chooseDestDirectoryDialog" timestamp="1615125888924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="186" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1615125888924" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616692171171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1616692171171" />
+    <state x="465" y="201" key="git4idea.merge.GitPullDialog" timestamp="1617206753761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1617206753761" />
+    <state x="308" y="132" key="psd.add.library.dependency.panel.dimension" timestamp="1620059080274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="308" y="132" key="psd.add.library.dependency.panel.dimension/0.0.1536.824@0.0.1536.824" timestamp="1620059080274" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615843064524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615843064524" />
+  </component>
+</project>
