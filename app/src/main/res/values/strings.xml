@@ -8,12 +8,21 @@
     </string-array>
 
     <string-array name="Gender_Type">
-        <item> "Gender" </item>
         <item> "Male" </item>
         <item> "Female" </item>
 
     </string-array>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Department_List">
+        <item> "General" </item>
+        <item> "Cardiology" </item>
+        <item> "Neurology" </item>
+        <item> "Medicine" </item>
+        <item> "Ophthalmology" </item>
+        <item> "Orthopedics" </item>
+        <item> "Nutritionist" </item>
+
+    </string-array>
+
 
 </resources>
