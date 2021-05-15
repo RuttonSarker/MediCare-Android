@@ -24,5 +24,29 @@
 
     </string-array>
 
+    <string-array name="MedicalTest_List">
+        <item> "Blood " </item>
+        <item> "Covid " </item>
+        <item> "ECG" </item>
+        <item> "Chest-X-Ray" </item>
+        <item> "Endoscopy" </item>
+        <item> "CT" </item>
+
+    </string-array>
+
+    <string-array name="Appointment_Time">
+        <item> "10:00 - 10:30 AM " </item>
+        <item> "10:30 - 11:00 AM  " </item>
+        <item> "11:00 - 11:30 AM " </item>
+        <item> "11:30 - 12:00 PM " </item>
+        <item> "04:00 - 04:30 PM " </item>
+        <item> "04:30 - 05:00 PM" </item>
+        <item> "05:00 - 05:30 PM" </item>
+        <item> "06:00 - 06:30 PM" </item>
+        <item> "07:00 - 07:30 PM" </item>
+        <item> "08:00 - 08:30 PM" </item>
+        <item> "09:00 - 09:30 PM" </item>
+
+    </string-array>
 
 </resources>
