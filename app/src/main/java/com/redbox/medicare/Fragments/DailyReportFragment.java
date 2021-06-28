@@ -85,9 +85,7 @@ public class DailyReportFragment extends Fragment {
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 showAlertDialog();
-
             }
         });
 
@@ -196,7 +194,6 @@ public class DailyReportFragment extends Fragment {
                     } catch (JSONException | UnsupportedEncodingException je) {
                         je.printStackTrace();
 
-
                     }
                 }
             }
@@ -245,7 +242,6 @@ public class DailyReportFragment extends Fragment {
                                    jsonObject.getString("date"),
                                    jsonObject.getString("bloodPressure"),
                                    jsonObject.getString("diabetesTest")
-
                            );
 
                             arrayList.add(dailyReport);
@@ -253,7 +249,6 @@ public class DailyReportFragment extends Fragment {
 
                         dailyReportAdapter = new DailyReportAdapter(getActivity(),arrayList,DailyReportFragment.this);
                         recyclerView.setAdapter(dailyReportAdapter);
-
                     }
                     progressBar.setVisibility(View.GONE);
                 } catch (JSONException e) {
@@ -276,7 +271,6 @@ public class DailyReportFragment extends Fragment {
                     } catch (JSONException | UnsupportedEncodingException je) {
                         je.printStackTrace();
                         progressBar.setVisibility(View.GONE);
-
                     }
                 }
                 progressBar.setVisibility(View.GONE);
@@ -300,5 +294,4 @@ public class DailyReportFragment extends Fragment {
         RequestQueue requestQueue = Volley.newRequestQueue(getContext());
         requestQueue.add(jsonObjectRequest);
     }
-
 }
