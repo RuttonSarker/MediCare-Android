@@ -1,24 +1,44 @@
-# MediCare-Android
-# An Android Virtual Communication Application for Doctor and Patient.
-* Medical facilities are the most significant facilities for everyone. In the today’s modern world, everything is dependent on online technologies like mobile application, website and many more. So, it is so much necessary that people can get medical treatment from doctors virtually and online. “MediCare” android application will reduce the sufferings of all kinds of people if they cannot manage time to present physically at the chamber of a doctor or if a doctor cannot manage time to visit rural areas for treatment. This application will also save people from any emergency situation by communicating with the lifesaver doctors.
+# MediCare- An Android Virtual Communication Application for Doctor and Patient
+* Medical facilities are the most significant facilities for everyone. In the today’s modern world, everything is dependent on online technologies like mobile application, website and many more. So, it is so much necessary that people can get medical treatment from doctors virtually and online. “MediCare” android application will reduce the sufferings of all kinds of people if they cannot manage time to present physically at the chamber of a doctor or if a doctor cannot manage time to visit rural areas for treatment.
 
-  ## Application Architectural Design
-  In the android application i use MVVM pattern. It is divided into three separate layer: Model, View, ViewModel.
+ ## Tools Usage
   
-  ![android](https://user-images.githubusercontent.com/59698649/126681129-650d3885-b2a0-43ae-9bfe-da458aa10f78.png)
-  ## 
-  
-  ## Tools Usage
-  
-    * Adobe XD
-    * Android Studio
-    * Visual Studio
-    * Postman
+    o Adobe XD
+    o Android Studio
+    o Visual Studio
+    o Postman
     
   ## Programming Language Used
   
-    * Java
-    * node.js
-    * Express.js
+    o Front end: Java
+    o Back end: node.js, Express.js    
+    
+   ## API Used in APP
+  
+    o SSLCommerz Payment Gateway
+    o Jitsi Meet Video Conference
+    
+ 
+
+  ## Features included
+  ### Patient
+  * View doctor list(doctor listed based on department category.)
+  * Booking appointment(choose a specific time and date to book an appointment.)
+  * Add medical report(list daily report like blood pressure, glucose level and upload medical test report in jpg, png or pdf format.)
+  * Online payment system(confirm booking via bKash, rocket or banking system.)
+  * Video calling(communicate with doctor in booking schedule.)
+
+  ### Doctor
+  * Managing time schedule (choose specific date and time).
+  * View appointment list (view patient booking list, date and time )
+  * Video calling(communicate with patient in booking time slot.)
+  * view patient uploaded medical report
+  * provide prescription, medical test
+  
+  ## 
+  
+ 
+    
+  ## 
  
 
