@@ -1,3 +1,12 @@
+# Developer
+  --------------------------------------------------
+   ###  Rutton Chandra Sarker                       
+   #### Bsc. in Computer Science & Engineering      
+   #### North South University                      
+   -------------------------------------------------
+
+##
+
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
 * Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile application, websites are made our lives easier. So, it is so much necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce the sufferings of all kinds of people if they cannot manage time to present physically at the chamber of a doctor or if a doctor cannot manage time to visit rural areas for treatment.
 
