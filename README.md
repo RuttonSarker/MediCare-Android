@@ -1,14 +1,14 @@
 # Developer
   --------------------------------------------------
-   ###  Rutton Chandra Sarker                       
-   #### Bsc. in Computer Science & Engineering      
-   #### North South University                      
+   * Rutton Chandra Sarker                       
+     Bsc. in Computer Science & Engineering      
+     North South University                      
    -------------------------------------------------
 
 ##
 
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
-* Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile application, websites are made our lives easier. So, it is so much necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce the sufferings of all kinds of people if they cannot manage time to present physically at the chamber of a doctor or if a doctor cannot manage time to visit rural areas for treatment.
+* Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile application, websites are made our lives easier. So, it is so much        necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce  the sufferings  of people specially  rural areas  if they can't attend physically in hospital to consult with a doctor. In addition, it also saves the time for a doctor because they can easily treatment a patient virtually without visiting in rural or distance place. 
 
  ## Tools Usage
   
@@ -61,11 +61,11 @@
  
  ![Screenshot_1627049708](https://user-images.githubusercontent.com/59698649/126798372-d41f2c40-a196-4818-84b3-3695f242f43a.png)-----------![Screenshot_1627049850](https://user-images.githubusercontent.com/59698649/126797751-98b374f6-5e50-484c-a433-d9b0b0f5fd2f.png)
  
- ![Screenshot_1627050135](https://user-images.githubusercontent.com/59698649/126798363-809c554b-ded7-4f8f-8281-bbfd2bfcd72a.png)------------![Screenshot_1627050065](https://user-images.githubusercontent.com/59698649/126797775-4ad542bb-e4e3-44d8-a095-254df821fd86.png)
+ ![Screenshot_1627050135](https://user-images.githubusercontent.com/59698649/126798363-809c554b-ded7-4f8f-8281-bbfd2bfcd72a.png)-----------![Screenshot_1627050065](https://user-images.githubusercontent.com/59698649/126797775-4ad542bb-e4e3-44d8-a095-254df821fd86.png)
  
- ![Screenshot_1627050024](https://user-images.githubusercontent.com/59698649/126798277-989fcbbd-5ea6-4398-9ab6-f7f8c862c7a7.png)-------------![Screenshot_1627050028](https://user-images.githubusercontent.com/59698649/126798312-b29e1985-a075-4a33-af69-dac1865bb0a9.png)
+ ![Screenshot_1627050024](https://user-images.githubusercontent.com/59698649/126798277-989fcbbd-5ea6-4398-9ab6-f7f8c862c7a7.png)-----------![Screenshot_1627050028](https://user-images.githubusercontent.com/59698649/126798312-b29e1985-a075-4a33-af69-dac1865bb0a9.png)
  
- ![Screenshot_1627050038](https://user-images.githubusercontent.com/59698649/126798345-194c31ac-7d73-426b-99ac-d6d590544da3.png)-------------![Screenshot_1627050116](https://user-images.githubusercontent.com/59698649/126798686-1545c06f-b444-4ca7-aedd-2d9fcc84f043.png)
+ ![Screenshot_1627050038](https://user-images.githubusercontent.com/59698649/126798345-194c31ac-7d73-426b-99ac-d6d590544da3.png)-----------![Screenshot_1627050116](https://user-images.githubusercontent.com/59698649/126798686-1545c06f-b444-4ca7-aedd-2d9fcc84f043.png)
 
  ![Screenshot_1627050182](https://user-images.githubusercontent.com/59698649/126798392-4fdff470-b52e-406b-879f-4072bdc8ab3b.png)
  
@@ -73,7 +73,7 @@
  
  
  ####
- ###                                                      >>>>>>>> MORE UPDATE SOON >>>>>>>>>>
+ ###                                                      >>>> MORE UPDATE SOON >>>>
 
 
 
