@@ -21,14 +21,14 @@ public class DoctorList extends AppCompatActivity {
         patient.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(DoctorList.this,PatientActivity.class));
+                startActivity(new Intent(DoctorList.this,PatientRegister.class));
             }
         });
 
         doctor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(DoctorList.this,DoctorActivity.class));
+                startActivity(new Intent(DoctorList.this,DoctorRegister.class));
             }
         });
     }

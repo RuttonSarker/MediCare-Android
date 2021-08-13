@@ -2,6 +2,7 @@ package com.redbox.medicare;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
@@ -16,6 +17,7 @@ import com.sslwireless.sslcommerzlibrary.viewmodel.listener.SSLCTransactionRespo
 
 public class SslCommerzPaymentGateway extends AppCompatActivity implements SSLCTransactionResponseListener {
     private TextView successs,failed,cancel;
+    String text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,8 +53,7 @@ public class SslCommerzPaymentGateway extends AppCompatActivity implements SSLCT
     @Override
     public void transactionSuccess(SSLCTransactionInfoModel sslcTransactionInfoModel) {
 
-        successs.setText(sslcTransactionInfoModel.getAPIConnect() + "----" + sslcTransactionInfoModel.getStatus());
-
+        successs.setText(sslcTransactionInfoModel.getAPIConnect() + "-" + sslcTransactionInfoModel.getStatus());
     }
 
 

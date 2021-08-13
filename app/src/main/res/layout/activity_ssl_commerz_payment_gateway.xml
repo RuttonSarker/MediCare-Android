@@ -12,7 +12,8 @@
         android:layout_height="match_parent"
         android:id="@+id/success"
         android:text=""
-        android:layout_marginTop="200dp"/>
+        android:layout_marginTop="200dp"
+        android:gravity="center"/>
 
     <TextView
         android:layout_width="match_parent"

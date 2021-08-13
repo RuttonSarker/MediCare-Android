@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Rutton/AndroidStudioProjects/MediCare/app/src/main/res/layout/activity_login.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Rutton/AndroidStudioProjects/MediCare/app/src/main/res/layout/activity_doctor_list.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Rutton/AndroidStudioProjects/MediCare/app/src/main/res/layout/activity_doctor_messege.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Rutton/AndroidStudioProjects/MediCare/app/src/main/res/layout/custom_doctor_list.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/Rutton/AndroidStudioProjects/MediCare/app/src/main/res/layout/custom_edit_doctor_dialog.xml" value="0.25025641025641027" />
       </map>
     </option>
   </component>

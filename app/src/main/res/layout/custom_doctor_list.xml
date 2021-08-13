@@ -54,27 +54,14 @@
             android:textColor="@color/black" />
 
         <TextView
-            android:id="@+id/dept."
+            android:id="@+id/department"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="100dp"
             android:layout_marginTop="10dp"
-            android:text="Department of"
-            android:textSize="18sp"
-            android:textStyle="normal"
-            android:textColor="#FB1616"
-            android:layout_below="@+id/name"
-            />
-
-        <TextView
-            android:id="@+id/department"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="220dp"
-            android:layout_marginTop="10dp"
             android:text="Department"
             android:textSize="18sp"
-            android:textStyle="normal"
+            android:textStyle="bold"
             android:textColor="#FB1616"
             android:layout_below="@+id/name"
             />
@@ -88,7 +75,7 @@
             android:text="Degree"
             android:textSize="18sp"
             android:textStyle="normal"
-            android:textColor="#FB1616"
+            android:textColor="#0E0E0E"
             android:layout_below="@+id/department"/>
 
         <TextView
