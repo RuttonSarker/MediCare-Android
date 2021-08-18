@@ -8,7 +8,7 @@
 ##
 
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
-* Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile application, websites are made our lives easier. So, it is so much        necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce  the sufferings  of people specially  rural areas  if they can't attend physically in hospital to consult with a doctor. In addition, it also saves the time for a doctor because they can easily treatment a patient virtually without visiting in rural or distance place. 
+* Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile and web applications are made our lives easier. So, it is so much        necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce  the sufferings of people specially rural areas if they can't attend physically in hospital to consult with a doctor. In addition, it also saves the time for a doctor because they can easily treatment a patient virtually without visiting in rural or distance place. 
 
  ## Tools Usage
   
@@ -16,11 +16,11 @@
     
     o Android Studio (Used Volley Network Library)
     
-    o Visual Studio (Back end code)
+    o Visual Studio (Backend Development)
     
-    o Postman (Test REST API)
+    o Postman (Testing REST API)
     
-    o MongoDB Cloud (Database)
+    o MongoDB Cloud (Manage Database)
     
   ## Programming Language Used
   
@@ -30,11 +30,11 @@
     
    ## API Used in APP
    
-    o REST API in back end process
+    o REST API in backend
     
-    o SSLCommerz Payment Gateway
+    o SSLCommerz Payment Gateway API
     
-    o Jitsi Meet Video Conference
+    o Jitsi Meet Video Conference API
     
  
 
