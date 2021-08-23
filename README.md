@@ -8,7 +8,7 @@
 ##
 
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
-* Medical facilities are the most significant facilities for everyone. In the today’s modern world, mobile and web applications are made our lives easier. So, it is so much        necessary that people can get medical treatment from doctors virtually in online. 'MediCare' android application will reduce  the sufferings of people specially rural areas if they can't attend physically in hospital to consult with a doctor. In addition, it also saves the time for a doctor because they can easily treatment a patient virtually without visiting in rural or distance place. 
+* Medical facilities are the most significant facilities for everyone. In today's modern world, mobile and web applications are made our lives easier. So, it is so much necessary that   people can get medical treatment from doctors virtually in online. The 'MediCare' android application will reduce the sufferings of people specially in rural areas because a patient will easily consult with an experienced doctor through video calling from anywhere. Moreover, it will save valuable time for a doctor because of virtual telemedicine treatment. 
 
  ## Tools Usage
   
