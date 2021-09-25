@@ -1,4 +1,4 @@
-# Developer
+# Developed By
   --------------------------------------------------
    * Rutton Chandra Sarker                       
      Bsc. in Computer Science & Engineering      
@@ -8,15 +8,15 @@
 ##
 
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
-* Medical facilities are the most significant facilities for everyone. In today's modern world, mobile and web applications are made our lives easier. So, it is so much necessary that   people can get medical treatment from doctors virtually in online. The 'MediCare' android application will reduce the sufferings of people specially in rural areas because a patient will easily consult with an experienced doctor through video calling from anywhere. Moreover, it will save valuable time for a doctor because of virtual telemedicine treatment. 
+Medical facilities are the most significant facilities for everyone. In today's modern world, mobile and web applications are made our lives easier. So, it is so much necessary that people can get medical treatment from doctors virtually in online. The 'MediCare' android application will reduce the sufferings of people specially in rural areas because a patient will easily consult with an experienced doctor through video calling from anywhere. Moreover, it will save valuable time for a doctor because of virtual telemedicine treatment. 
 
  ## Tools Usage
   
     o Adobe XD (UI Design)
     
-    o Android Studio (Used Volley Network Library)
+    o Android Studio
     
-    o Visual Studio (Backend Development)
+    o Visual Studio
     
     o Postman (Testing REST API)
     
@@ -30,7 +30,7 @@
     
    ## API Used in APP
    
-    o REST API in backend
+    o REST API 
     
     o SSLCommerz Payment Gateway API
     
