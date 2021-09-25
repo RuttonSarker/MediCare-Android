@@ -14,9 +14,9 @@ Medical facilities are the most significant facilities for everyone. In today's 
   
     o Adobe XD (UI Design)
     
-    o Android Studio
+    o Android Studio (App development)
     
-    o Visual Studio
+    o Visual Studio (Server-side)
     
     o Postman (Testing REST API)
     
@@ -30,7 +30,7 @@ Medical facilities are the most significant facilities for everyone. In today's 
     
    ## API Used in APP
    
-    o REST API 
+    o REST API in backend services
     
     o SSLCommerz Payment Gateway API
     
