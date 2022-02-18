@@ -12,15 +12,15 @@ Medical facilities are the most significant facilities for everyone. In today's 
 
  ## Tools Usage
   
-    o Adobe XD (UI Design)
+    o Adobe XD 
     
-    o Android Studio (App development)
+    o Android Studio
     
-    o Visual Studio (Server-side)
+    o Visual Studio
     
-    o Postman (Testing REST API)
+    o Postman
     
-    o MongoDB Cloud (Manage Database)
+    o MongoDB Cloud
     
   ## Programming Language Used
   
