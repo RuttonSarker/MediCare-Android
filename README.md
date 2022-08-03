@@ -8,7 +8,7 @@
 ##
 
 # MediCare- An Android Virtual Communication Application for Doctor and Patient
-Medical facilities are the most significant facilities for everyone. In today's modern world, mobile and web applications are made our lives easier. So, it is so much necessary that people can get medical treatment from doctors virtually in online. The 'MediCare' android application will reduce the sufferings of people specially in rural areas because a patient will easily consult with an experienced doctor through video calling from anywhere. Moreover, it will save valuable time for a doctor because of virtual telemedicine treatment. 
+Medical facilities are the most significant facilities for everyone. In today's modern world, mobile and web applications are made our lives easier. So, it is so much necessary that people can get medical treatment from doctors virtually in online. The 'MediCare' android application offers telemedicine treatment so that a patient can easily consult with an experienced doctor via video calling from anywhere.
 
  ## Tools Usage
   
@@ -28,13 +28,13 @@ Medical facilities are the most significant facilities for everyone. In today's 
     
     o Back end: node.js, Express.js    
     
-   ## API Used in APP
+   ## API Used
    
-    o REST API in backend services
+    o REST API
     
-    o SSLCommerz Payment Gateway API
+    o SSLCommerz Payment Gateway
     
-    o Jitsi Meet Video Conference API
+    o Jitsi Meet Video Conference
     
  
 
